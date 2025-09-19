@@ -28,3 +28,7 @@ Vous trouverez ici des ressources en **français** et en **anglais**.
 
 ### METEO
 
+- [Introduction](./wiki/en/introduction.md)
+- [Installation](./wiki/en/installation.md)
+- [Usage](./wiki/en/usage.md)
+- [FAQ](./wiki/en/faq.md)
